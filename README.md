@@ -5,10 +5,7 @@
 <p align="center">
   <p align="center">
     <a href="http://s.id/skz">
-        <img
            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=440&lines=Welcome+To+My+Github+Profile" alt="Typing SVG" /></a>
-        />
-    </a>
 </p>
 <a href="https://github.com/skzofc"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
