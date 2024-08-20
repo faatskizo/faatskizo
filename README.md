@@ -21,9 +21,9 @@
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
     
-<a href="https://github.com/faatskizo/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faatskizo&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></p>
+<a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></p>
 
-<a href="https://github.com/faatskizo">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faatskizo&theme=swift)
+<a href="https://github.com/skzofc">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skzofc&theme=swift)
 
 ### ⚙ &nbsp;GitHub Analytics
 
