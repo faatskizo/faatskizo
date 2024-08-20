@@ -15,7 +15,7 @@
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
-<a href="http://faatbotz.eu.org/ "><img alt="Cute Count" src="https://count.getloli.com/get/@faatskizo?theme=asoul"/></a>
+<a href="http://faatbotz.eu.org/ "><img alt="Cute Count" src="https://count.getloli.com/get/@skzofc?theme=asoul"/></a>
 </details>
 </div>
     
