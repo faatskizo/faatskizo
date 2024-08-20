@@ -21,7 +21,7 @@
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
     
-<center><a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></center>
+<center><a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></p></center>
 
 <center><a href="https://github.com/skzofc">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skzofc&theme=swift)</center>
 
