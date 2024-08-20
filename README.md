@@ -15,15 +15,15 @@
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
-<a href="http://faatbotz.eu.org/ "><img alt="Cute Count" src="https://count.getloli.com/get/@skzofc?theme=asoul"/></a>
+<center><a href="http://faatbotz.eu.org/ "><img alt="Cute Count" src="https://count.getloli.com/get/@skzofc?theme=asoul"/></a></center>
 </details>
 </div>
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
     
-<a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></p>
+<center><a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></center>
 
-<a href="https://github.com/skzofc">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skzofc&theme=swift)
+<center><a href="https://github.com/skzofc">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skzofc&theme=swift)</center>
 
 ### ⚙ &nbsp;GitHub Analytics
 
