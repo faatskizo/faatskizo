@@ -6,7 +6,7 @@
   <p align="center">
     <a href="http://s.id/skz">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Skz+Ofc"
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=400&lines=Selamat+Datang+Di+Github+Skz+Ofc"
             alt="Skzofc"
         />
     </a>
