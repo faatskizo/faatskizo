@@ -23,20 +23,19 @@
     
 <center><a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></p></center>
 
-<center><a href="https://github.com/skzofc">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skzofc&theme=swift)</center>
 
 ### ⚙ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/faatskizo"><img src="https://github-readme-stats.vercel.app/api?username=faatskizo&theme=swift&show_icons=true" /></a>
+  <a href="https://github.com/skzofc"><img src="https://github-readme-stats.vercel.app/api?username=skzofc&theme=swift&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/faatskizo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faatskizo&theme=swift&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/skzofc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skzofc&theme=swift&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/faatskizo"><img src="https://github-profile-trophy.vercel.app/?username=faatskizo&theme=swift&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/skzofc"><img src="https://github-profile-trophy.vercel.app/?username=skzofc&theme=swift&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 <div>
