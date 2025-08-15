@@ -9,7 +9,7 @@
 </p>
 <a href="https://github.com/skzofc"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/skzofc"><img src="https://cardivo.vercel.app/api?name=SkzOfc&description=Hi,%20Im%20Skzofc%20and%20i%20love%20Learning%20About%20IT&image=https://avatars.githubusercontent.com/u/122362873?s=400&u=8f0bd3dfe2d018ff6d5c16c2881dabbe11b30e3e&v/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=skzoofc&github=skzofc&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/faatskizo"><img src="https://cardivo.vercel.app/api?name=Muhammad_Syafaat&description=Hi,%20Im%20Skzofc%20and%20i%20love%20Learning%20About%20IT&image=https://avatars.githubusercontent.com/u/122362873?s=400&u=8f0bd3dfe2d018ff6d5c16c2881dabbe11b30e3e&v/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=akupaat_&github=faatskizo&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open>
