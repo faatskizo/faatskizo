@@ -19,80 +19,32 @@
 </details>
 </div>
     
-<h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
-    
-<center><a href="https://github.com/skzofc/"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzofc&show_icons=true&locale=en&layout=compact" alt="FaatSkizo" /></p></center>
+# 💫 About Me:
+Hello, I’m Muhammad Syafaat — a student exploring the world of 💻 programming, both 🎨 front-end and ⚙️ back-end.<br><br>I follow the principle "💡 Life is Responsibility", meaning every aspect of my life — from behavior and social interactions to other matters — is my responsibility.<br><br>I enjoy learning challenging things that make me think deeply, such as 💻 programming, 📚 philosophy, 🏛️ history, ➗ mathematics, and 🧠 psychology.<br>Although I still have a lot to learn and improve, I believe that 📈 learning is a journey worth pursuing.<br>
 
 
-### ⚙ &nbsp;GitHub Analytics
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muh.syafaat.792) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akupaat_) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/FaatSkizo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sfaat40@gmail.com) 
 
-<p align="center">
-  <a href="https://github.com/skzofc"><img src="https://github-readme-stats.vercel.app/api?username=skzofc&theme=swift&show_icons=true" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=faatskizo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=faatskizo&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faatskizo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="https://github.com/skzofc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skzofc&theme=swift&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=faatskizo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=faatskizo&icon=1&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MuhammadSyafaatFaaf) 
+
   
-<p align="center">
-  <a href="https://github.com/skzofc"><img src="https://github-profile-trophy.vercel.app/?username=skzofc&theme=swift&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-    
-<div>
-<h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
-  <div align="center">
-<img src="https://media.tenor.com/i6pfhZCP1QcAAAAi/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B0%8F%E5%AD%A4%E7%8D%A8.gif" align="right" width="20%">
-  </div>
-<li>
- <b>Name:</b> FaatSkizo (Paat)
-</li>
-<li>
-<b>Loves:</b> Learning About IT, Anime, Manga, Music, My Self
-</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Website</b> https://faatbotz.eu.org
-</li>
-<li>
-<b>Wordpress</b> https://www.faatblog.epizy.com
-</li>
-<li>
-<b>Hobbys:</b> Workout, Learn , Graphic Design, Tech Stuff, Web Development
-</li>
-
-<br>
-<br>
-<br>
-
-</div>
-<div>
-<h2 align="center"> 📇 ~ KNOWLEDGE ~ 📇 </h2>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/php%20-%2331A8FF.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<br>
-<br>
-Listening to the music and typing code is my favorite routine, and I like to be alone  💕.
-</p>
-<br>
-<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
-
-<p align="center">Here are some my <br>
-most used social media</p>
-
-<p align="center">
-<a href="https://www.facebook.com/creeperawman030204" target="_blank"><img src="https://img.shields.io/badge/-FaatSkizo-blue?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/faatskizo_ofc" target="_blank"><img src="https://img.shields.io/badge/-faatskizo_ofc-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/faatskizo" target="_blank"><img src="https://img.shields.io/badge/-FaatSkizo%20Ofc-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
-</p>
-</div>
-</center>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </body>
